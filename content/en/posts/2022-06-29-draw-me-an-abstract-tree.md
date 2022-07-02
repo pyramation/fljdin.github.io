@@ -39,14 +39,14 @@ using a advanced development pattern called [AST][4] (abstract syntax tree).
 ## From code to machine
 
 Writing statement as a bunch of words, as we do with SQL, involves a need of
-understanding this specific statement by the execution engine. A simple comparaison
+understanding this specific statement by the execution engine. A simple comparison
 is common language, when grammar rules enforce the order of adjectives, nouns and
 pronouns so that two interlocutors can understand each other.
 
 In computing, this process is called [compilation][5] and transforms code
 instructions to their equivalent binary operations submitted to the machine. 
 Since the dawn of computer sciences, a few software programs have been responsible
-for analysing instructions, divided into several families:
+for analyzing instructions, divided into several families:
 
 [5]: https://en.wikipedia.org/wiki/Compiler
 
